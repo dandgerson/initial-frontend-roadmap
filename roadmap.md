@@ -1,6 +1,6 @@
 # RoadMap
 
-- [ ] Generate internet NickName (ex. dandgerson)
+- [x] Generate internet NickName (ex. dandgerson)
 - [ ] Register accounts and creat profile
 
   - [ ] [github.com](github.com)
@@ -10,6 +10,8 @@
   - [ ] [codewars.com](www.codewars.com/r/jzxX0Q)
     - [ ] follow dandgerson
   - [ ] [twitter.com](twitter.com)
+    - [ ] follow dandgerson
+  - [ ] [codersrank.io](https://profile.codersrank.io/register?utm_source=invitation&utm_medium=copy&utm_campaign=62097a2a0ce5490001f23858)
     - [ ] follow dandgerson
 
 - [ ] [Complete Beginner Learning Path](https://frontendmasters.com/learn/beginner/)
