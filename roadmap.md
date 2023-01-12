@@ -3,7 +3,7 @@
 - [x] Generate internet NickName (ex. dandgerson)
 - [ ] Register accounts and creat profile
 
-  - [ ] [github.com](github.com)
+  - [x] [github.com](github.com)
     - [ ] follow dandgerson
   - [ ] [linkedin.com](https://www.linkedin.com)
     - [ ] follow dandgerson
