@@ -1,9 +1,9 @@
 # RoadMap
 
-- [x] Generate internet NickName (ex. dandgerson)
+- [ ] Generate internet NickName (ex. dandgerson)
 - [ ] Register accounts and creat profile
 
-  - [x] [github.com](github.com)
+  - [ ] [github.com](github.com)
     - [ ] follow dandgerson
   - [ ] [linkedin.com](https://www.linkedin.com)
     - [ ] follow dandgerson
